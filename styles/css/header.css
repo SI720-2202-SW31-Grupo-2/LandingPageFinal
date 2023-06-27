@@ -167,7 +167,8 @@
 }
 @media (min-width: 373px) {
   .Header-Name__app {
-    display: none;
+    display: flex;
+    padding: 1em 1em;
   }
   .profile__info-subtitle {
     padding: 1em 0;
